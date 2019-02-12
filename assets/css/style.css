@@ -1,0 +1,12 @@
+body{
+    background-color: lemonchiffon;
+}
+
+.container{
+    background-color: whitesmoke;
+}
+.jumbotron, .panel-heading{
+    background-color: rebeccapurple;
+    color: aliceblue;
+}
+
